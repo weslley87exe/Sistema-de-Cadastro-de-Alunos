@@ -1,0 +1,7 @@
+# Ignorar arquivos e pastas gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivo de dados dos alunos (pra não subir dados pessoais no Git)
+alunos.json
